@@ -1,5 +1,5 @@
 # task
 
 Create a database
-collect the data
-clean the data
+Collect the data
+Clean the data
